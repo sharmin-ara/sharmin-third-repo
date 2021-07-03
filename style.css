@@ -2,5 +2,8 @@ p{
     color: peru;font-size: xx-large;
 }
 h1{
-    color: plum;font-style: oblique;
+    color: rgb(160, 221, 201);font-style: oblique;
+}
+h2{
+    color: red;
 }
